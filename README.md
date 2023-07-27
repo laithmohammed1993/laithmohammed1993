@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laithmohammed1993
 - 👀 I’m interested in JS, PY
 - 🌱 I’m currently developing a big project
-- 💞️ I’m looking to wonderful coder work with me
+- 💞️ I’m looking to wonderful coder working with me
 - 📫 How to reach me laithmohammedsaker@gmail.com
 
 <!---
